@@ -2,6 +2,23 @@
 
 Mia Kürten is an OKR assistant designed to help managers manage and improve their team's OKRs. 
 
+## Requirements and Compatibility
+
+### Recommended
+- ChatGPT Plus Subscription with GPT-4 or above models.
+
+### Not Recommended
+- Default and Legacy GPT-3.5
+- GPT-4 API (It will be costly)
+
+## Quick Start Guide
+
+1. Visit [ChatGPT](https://chat.openai.com/chat)
+2. Select the GPT-4 (or above) model
+3. Copy and paste the contents of [Mia.yml](https://raw.githubusercontent.com/angelkurten/Mia-Kurten-AI-OKR-Assistant/main/Mia.yml) into ChatGPT
+4. Let Mia Kürten guide you through the configuration process
+5. Start learning!
+
 ## Features
 
 - **Review OKRs**: Review your team's current OKRs and see how they're progressing.
