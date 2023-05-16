@@ -2,6 +2,10 @@
 
 Mia Kürten is an OKR assistant designed to help managers manage and improve their team's OKRs. 
 
+Donations accepted:
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://bmc.link/angelkurten)
+
 ## Requirements and Compatibility
 
 ### Recommended
