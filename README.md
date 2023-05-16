@@ -52,3 +52,8 @@ To use Mia Kürten, simply start by typing `/config` to set your preferences. Th
 
 If you encounter any issues or have any questions, please open an issue on this repository.
 
+## Credits
+
+This project was inspired by and built upon the work done in the [Mr. Ranedeer AI Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) project. A big thank you to the creators and contributors of that project for their valuable work.
+
+
